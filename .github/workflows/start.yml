@@ -50,6 +50,14 @@ jobs:
             - [x] 1. Created GitHub account
             - [x] 2. Fork GitHub repo
             - [ ] 3. Activate issues in your fork
+
+            **Important**: Please complete the tasks in your forked repository, but always return to this issue in the original workshop repository to indicate that you’re done.
+           
+            *Why?* This is due to the technical setup of the workshop.
+            You’re working in your fork, but the issue that tracks your progress is in the original repository. 
+            Since you don’t have write access there, you cannot edit the issue directly (for example, by checking checkboxes).
+
+  
             `.trim();
             
               
@@ -64,6 +72,7 @@ jobs:
 
             // 3) Post the detailed "Next step" instructions as a comment
             const commentBody = `
+         
             ---
             
             Let’s approach this like a true scientist: step by step, with curiosity, precision, and a healthy dose of skepticism (and maybe a coffee or two). 
