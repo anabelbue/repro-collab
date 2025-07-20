@@ -2,7 +2,7 @@
 
 **GitHub**:  A kind of cloud storage built around the version control system *git*. 
 Like Dropbox, it lets you store and share your project files online, but it’s specifically designed for collaboration and version control.
-*Git* helps to track and manage the development of your files in a structured way, so you can recall earlier versions when needed. 
+Git helps to track and manage the development of your files in a structured way, so you can recall earlier versions when needed. 
 In this workshop, you only work online in GitHub. 
 However, in typical collaborative projects, you'll also use git locally on your computer to track progress (through *commits*), and then upload (*push*) your current version to GitHub so others can access and contribute.
 
@@ -25,7 +25,7 @@ The original repository you forked from is also called the *upstream repository*
 A branch marks the current state of that version of your project and tracks its own set of changes. 
 The *main branch* represents the current official version of the project.
 Creating additional, separate branches allows collaborators to work on changes without affecting the main branch. 
-After finishing work in a branch, collaborators can open a *pull request* to suggest adding their changes to the main branch.
+After finishing work in a branch, collaborators can open a pull request to suggest adding their changes to the main branch.
 
 
 **Pull Request (PR)**: A tool for requesting that changes from one branch are applied to another branch. 
