@@ -1,5 +1,18 @@
 ### Cheat Sheet: Collaborative Writing on GitHub
 
+**GitHub**:  A kind of cloud storage built around the version control system *git*.  
+Like Dropbox, it lets you store and share your project files online, but it’s specifically designed for collaboration and version control.
+*Git* helps to track and manage the development of your files in a structured way, so you can recall earlier versions when needed. 
+In this workshop, you only work online in GitHub. 
+However, in typical collaborative projects, you'll also use git locally on your computer to track progress (through *commits*), and then upload ("push") your current version to GitHub so others can access and contribute.
+
+**Commit**: The central unit of version control in git. 
+A commit is like a snapshot of your entire project at a certain point in time, saving all changes since the last commit. 
+Git tracks these changes line by line, so you can compare different versions and see exactly what was added, removed, or modified. 
+The sequence of commits forms the *commit history*, showing how your project has evolved and allowing you to restore earlier versions if needed. 
+To keep things organized, you should create a commit whenever you reach a (small) milestone and briefly describe your changes in a *commit message*. 
+This helps you and your collaborators see who changed what and when.
+
 **Repository**: The central project folder in GitHub.
 It stores all files, version history, and collaboration tools (like issues, pull requests, and branches).
 In collaborative writing, the repository is like your shared document workspace. 
